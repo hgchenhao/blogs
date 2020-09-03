@@ -377,16 +377,16 @@ inventoryTracker.requestItems()
 ### 设计模式分类
 - 创建型
   - 构造器模式
-  - [工厂模式](https://github.com/hgchenhao/blogs/blob/master/design-patterns/behavior/工厂模式.md)
+  - [工厂模式](https://github.com/hgchenhao/blogs/blob/master/design-patterns/create/工厂模式.md)
   - 抽象工厂模式
-  - [单例模式](https://github.com/hgchenhao/blogs/blob/master/design-patterns/behavior/单例模式.md)
+  - [单例模式](https://github.com/hgchenhao/blogs/blob/master/design-patterns/create/单例模式.md)
   - 原型模式
   - 建造者模式
 - 结构型
-  - [适配器模式](https://github.com/hgchenhao/blogs/blob/master/design-patterns/behavior/适配器模式.md)
+  - [适配器模式](https://github.com/hgchenhao/blogs/blob/master/design-patterns/structure/适配器模式.md)
   - 装饰器模式
   - 代理模式
-  - [外观模式](https://github.com/hgchenhao/blogs/blob/master/design-patterns/behavior/外观模式.md)
+  - [外观模式](https://github.com/hgchenhao/blogs/blob/master/design-patterns/structure/外观模式.md)
   - 桥接模式
   - 组合模式
   - 享元模式

@@ -2,7 +2,7 @@
 > 随笔、总结、杂记
 
 ### 设计模式
-+ [JavaScript设计模式（23种)](https://github.com/a1029563229/Blogs/tree/master/BestPractices/caddy) 
++ [JavaScript设计模式（23种)](https://github.com/hgchenhao/blogs/blob/master/design-patterns/index.md) 
 ### 重构
 + 待续
 ### webpack 
